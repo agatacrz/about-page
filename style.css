@@ -1,8 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Kaushan+Script&family=Poppins:wght@300;400;500;600&display=swap');
 
+/*
+font-family: 'Bebas Neue', sans-serif;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Poppins', sans-serif;
+*/
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
+}
+
+:root {
+    --cor1: #DCE8F2;
+    --cor2: #B0B7BF;
+    --cor3: #608BA6;
+    --cor4: #A6445E;
+    --cor5: #594642;
+}
+
+body {
+    background-color: var(--cor1);
 }
