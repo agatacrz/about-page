@@ -1,9 +1,11 @@
 o que vou precisar
-- fonte menu
-- fonte titulo
-fonte texto
-- fonte citação
-- imagens
-- definir paleta de cores
+- fonte menu [ok]
+- fonte titulo [ok]
+fonte texto [ok]
+- fonte citação [ok]
+- imagens [ok]
+- definir paleta de cores [ok]
 
 link do projeto modelo: https://dribbble.com/shots/2822410-DOT-project-about-us-page/attachments/579250
+
+
