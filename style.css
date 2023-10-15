@@ -24,3 +24,22 @@ font-family: 'Poppins', sans-serif;
 body {
     background-color: var(--cor1);
 }
+
+nav {
+    padding: 25px;
+    margin: 50px;
+
+}
+
+.menu-topo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1em;
+    font-weight: 300;
+}
+
+nav > a {
+    color: var(--cor5);
+}
