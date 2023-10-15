@@ -109,3 +109,48 @@ img.imgnote {
     margin: auto;
     border-radius: 3px;
 }
+
+section.team {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px;
+    margin: 110px 110px 50px 110px;
+}
+
+div.imgsteam {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 900px;
+}
+
+.imgteam01 {
+    width: 260px;
+    height: 260px;
+    padding: 15px;
+    border-radius: 18px;
+}
+
+.imgteam02 {
+    width: 260px;
+    height: 260px;
+    padding: 15px;
+    margin-top: 90px;
+    margin-left: 10px;
+    border-radius: 18px;
+}
+
+.imgteam03 {
+    width: 260px;
+    height: 260px;
+    padding: 15px;
+    margin-top: -50px;
+    border-radius: 18px;
+}
+
+div.teamtext {
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+}
