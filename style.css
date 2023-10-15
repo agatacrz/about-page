@@ -89,6 +89,21 @@ section.citacao {
     margin: 60px 110px 15px 110px;
 }
 
+.gpcitacao > h2 {
+    font-family: 'Kaushan Script', cursive;
+    font-weight: normal;
+    padding-top: 40px;
+    padding-right: 90px;
+    margin-bottom: 25px;
+    color: var(--cor5);
+}
+
+.gpcitacao > p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    color: var(--cor4);
+}
+
 img.imgnote {
     display: block;
     margin: auto;
