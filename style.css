@@ -59,6 +59,10 @@ nav > a {
     width: 30%;
 }
 
+.about-lista > ul {
+    list-style-type: none;
+}
+
 .about-principal > h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-weight: normal;
@@ -169,6 +173,81 @@ div.teamtext > p {
     text-align: justify;
     padding: 10px;
     font-size: 0.9em;
+}
+
+div.teamtext-infos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+div.info1 {
+    width: 100px;
+}
+
+div.info1 > h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: var(--cor3);
+}
+
+div.info1 > p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.7em;
+    font-weight: 400;
+}
+
+div.info2 {
+    width: 100px;
+}
+
+div.info2 > h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: var(--cor3);
+}
+
+div.info2 > p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.7em;
+    font-weight: 400;
+}
+
+div.info3 {
+    width: 100px;
+}
+
+div.info3 > h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: var(--cor3);
+}
+
+div.info3 > p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.7em;
+    font-weight: 400;
+}
+
+div.info4 {
+    width: 100px;
+}
+
+div.info4 > h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    color: var(--cor3);
+}
+
+div.info4 > p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.7em;
+    font-weight: 400;
 }
 
 .menu-footer {
